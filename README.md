@@ -1,6 +1,6 @@
-Hello there👋, I'm Rasak, specializing in **full stack development** by focusing on **frontend, backend, and database management**. I design and build robust web applications, ensuring seamless integration between user interfaces, server-side logic, and data storage.  
+Hello there👋, I'm Rasak, specializing in **𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁** 𝗮𝗻𝗱 **data analytics**. I deploy advanced machine learning techniques into data science and analytics to drive insights and actionable decisions. My expertise spans front-end frameworks, back-end infrastructures, and database management, ensuring seamless data flow. 
 
-My expertise spans modern frontend frameworks, scalable backend infrastructures, and efficient database architectures, enabling optimized performance and user experience. Additionally, I implement advanced data-driven solutions, leveraging big data, machine learning algorithms, and natural language processing to enhance system intelligence and interactivity.
+More importantly, I design and implement scalable solutions that leverage big data using machine learning algorithms to analyse vast datasets, uncover patterns, and make predictions. These include supervised and unsupervised learning, deep learning, natural language processing, and prompt engineering to optimize model performance and user interactions.
 
 ## 🚀 About Me
 ✍️ 𝗜'𝗺 𝗮𝗱𝗲𝗽𝘁 𝗮𝘁 𝘂𝘀𝗶𝗻𝗴:
