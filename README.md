@@ -1,4 +1,4 @@
-Hello there👋, I'm Rasak, specializing in **𝗳𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁** 𝗮𝗻𝗱 **data analytics**. I deploy advanced machine learning techniques into data science and analytics to drive insights and actionable decisions. My expertise spans front-end frameworks, back-end infrastructures, and database management, ensuring seamless data flow. 
+Hello there👋, I'm Rasak, **a data analytics expert with a background in 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁**. I deploy advanced machine learning techniques into data science and analytics to drive insights and actionable decisions. My expertise spans front-end frameworks, back-end infrastructures, and database management, ensuring seamless data flow. 
 
 More importantly, I design and implement scalable solutions that leverage big data using machine learning algorithms to analyse vast datasets, uncover patterns, and make predictions. These include supervised and unsupervised learning, deep learning, natural language processing, and prompt engineering to optimize model performance and user interactions.
 
