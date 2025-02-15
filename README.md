@@ -20,7 +20,7 @@ More importantly, I design and implement scalable solutions that leverage big da
    * Excel (VBA)
    * MATLAB
    * Apache Spark
-   * Data analytics tools
+   * Data analytics tools.
 
 ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
