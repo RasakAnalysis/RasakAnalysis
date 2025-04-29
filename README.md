@@ -8,7 +8,7 @@ With expertise in Python, R, SQL, and data tools like Power BI and Tableau, I bu
 
 **Data Processing**: Pandas, NumPy, Apache Spark, R (dplyr), data wrangling, ETL.
 
-**Data Analysis**: Exploratory Data Analysis (EDA), statistics, A/B testing, time-series analysis
+**Data Analysis**: Exploratory Data Analysis (EDA), statistics, A/B testing, time-series analysis.
 
 **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, D3.js, Excel (PivotTables & VBA)
 
