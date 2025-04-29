@@ -1,26 +1,18 @@
-Hello there👋, I'm Rasak, **a data analytics expert with a background in 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁**. I deploy advanced machine learning techniques into data science and analytics to drive insights and actionable decisions. My expertise spans front-end frameworks, back-end infrastructures, and database management, ensuring seamless data flow. 
+👋 Hey, I'm Rasak — **Data Scientist & Analytics Specialist**
+I focus on end-to-end data workflows: from data collection and cleaning, to feature engineering, model building, and data visualization. My mission is to convert raw data into predictive insights that drive smarter decisions across business and sustainability domains.
 
-More importantly, I design and implement scalable solutions that leverage big data using machine learning algorithms to analyse vast datasets, uncover patterns, and make predictions. These include supervised and unsupervised learning, deep learning, natural language processing, and prompt engineering to optimize model performance and user interactions.
+With expertise in Python, R, SQL, and data tools like Power BI and Tableau, I build pipelines that handle large-scale data ingestion, transformations, and model deployments using advanced machine learning algorithms.
 
-## 🚀 About Me
-✍️ 𝗜'𝗺 𝗮𝗱𝗲𝗽𝘁 𝗮𝘁 𝘂𝘀𝗶𝗻𝗴:
-   * Python (NumPy, PyTorch, Pandas)
-   * R
-   * SQL (MySQL, PostgreSQL)
-   * Prompt Engineering techniques
-   * Machine learning
-   * JavaScript (for visualization libraries like D3.js)
-   * Java
-   * Swift
+🔧**Core Skills**
+**Data Collection**: Web scraping, APIs, SQL queries, real-time sensor data, manual & automated pipelines.
 
-## 🚀 Other Stacks
-✍️ 𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗽𝗿𝗼𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗶𝗻:
-   * Tableau
-   * Power BI
-   * Excel (VBA)
-   * MATLAB
-   * Apache Spark
-   * Data analytics tools.
+**Data Processing**: Pandas, NumPy, Apache Spark, R (dplyr), data wrangling, ETL.
+
+**Data Analysis**: Exploratory Data Analysis (EDA), statistics, A/B testing, time-series analysis
+
+**Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, D3.js, Excel (PivotTables & VBA)
+
+**Machine Learning**: Scikit-learn, PyTorch, supervised/unsupervised learning, NLP, deep learning, prompt engineering.
 
 ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
@@ -35,4 +27,4 @@ More importantly, I design and implement scalable solutions that leverage big da
    * 🔭 I'm currently working on predictive maintenance for industrial equipments using Machine Learning.
    * 🌱 I'm consolidating my skills in Deep Learning.
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
-   * 🎉 Hobby: Coding and Debugging.
+   * 🧠 Hobby: Debugging messy data and uncovering insights.
