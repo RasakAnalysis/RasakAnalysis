@@ -1,4 +1,5 @@
 👋 Hey, I'm Rasak — **Data Scientist & Analytics Specialist**
+
 I focus on end-to-end data workflows: from data collection and cleaning, to feature engineering, model building, and data visualization. My mission is to convert raw data into predictive insights that drive smarter decisions across business and sustainability domains.
 
 With expertise in Python, R, SQL, and data tools like Power BI and Tableau, I build pipelines that handle large-scale data ingestion, transformations, and model deployments using advanced machine learning algorithms.
