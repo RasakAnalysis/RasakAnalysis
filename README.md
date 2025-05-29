@@ -13,8 +13,6 @@ With expertise in Python, R, SQL, and data tools like Power BI and Tableau, I bu
 
 **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn, D3.js, Excel (PivotTables & VBA)
 
-**Machine Learning**: Scikit-learn, PyTorch, supervised/unsupervised learning, NLP, deep learning, prompt engineering.
-
 ## 🚀 PROJECT LINKS
 *   - ## 🔗 SEE ATTACHED
       [![portfolio](https://img.shields.io/badge/CorrosionAnalysis-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/RasakAnalysis/CorrosionAnalysis)
