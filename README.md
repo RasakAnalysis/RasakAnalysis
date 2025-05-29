@@ -23,7 +23,9 @@ With expertise in Python, R, SQL, and data tools like Power BI and Tableau, I bu
       [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/login/)
 
 ## 🚀 MORE
-   * 🔭 I'm currently working on predictive maintenance for industrial equipments using Machine Learning.
+   * 🔭 I'm currently working on predictive maintenance for industrial equipments using ML.
    * 🌱 I'm consolidating my skills in Deep Learning.
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🧠 Hobby: Debugging messy data and uncovering insights.
+   
+  You can reach out to me here.
