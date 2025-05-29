@@ -28,4 +28,5 @@ With expertise in Python, R, SQL, and data tools like Power BI and Tableau, I bu
    * 👯 Open to collaborations on data analysis, machine learning, and visualization projects.
    * 🧠 Hobby: Debugging messy data and uncovering insights.
    
-  You can reach out to me here.
+  You can reach out to me [here](https://wa.me/2348163157843).
+
